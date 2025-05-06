@@ -1,0 +1,198 @@
+######################################################## TEST 1 ########################################################
+Problem if sum of daughters technologies are greater than mother technologies for the same parameter,
+only for transport sector.
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+
+
+
+
+
+######################################################## TEST 2 ########################################################
+Problem with decreasing values of TotalAnnualMaxCapacity by available technologies, by available technologies.
+Techs_Auto has decreases at the following points:
+  Check   from Year 2023: 2.5433 to Year 2024: 2.5251
+
+-------------------------------------------------
+Techs_Taxi has decreases at the following points:
+  Check   from Year 2023: 1.3691 to Year 2024: 1.3594
+
+-------------------------------------------------
+Techs_Motos has decreases at the following points:
+  Check   from Year 2023: 6.5452 to Year 2024: 6.4985
+
+-------------------------------------------------
+Techs_SUV has decreases at the following points:
+  Check   from Year 2023: 4.7935 to Year 2024: 4.7592
+
+-------------------------------------------------
+Techs_Buses_Pub has decreases at the following points:
+  Check   from Year 2023: 0.8197 to Year 2024: 0.8139
+
+-------------------------------------------------
+Techs_Buses_Tur has decreases at the following points:
+  Check   from Year 2023: 0.0128 to Year 2024: 0.0127
+
+-------------------------------------------------
+Techs_Buses_Micro has decreases at the following points:
+  Check   from Year 2023: 0.3626 to Year 2024: 0.36
+
+-------------------------------------------------
+Techs_He_Freight has decreases at the following points:
+  Check   from Year 2023: 0.6734 to Year 2024: 0.6686
+
+-------------------------------------------------
+Techs_Li_Freight has decreases at the following points:
+  Check   from Year 2023: 0.8702 to Year 2024: 0.8641
+
+-------------------------------------------------
+PPPVT has decreases at the following points:
+  Check   from Year 2033: 9999999.0 to Year 2034: 999999.0
+
+-------------------------------------------------
+PPGTDSL has decreases at the following points:
+  Check   from Year 2018: 0.0515 to Year 2019: 0.0435
+  Check   from Year 2019: 0.0435 to Year 2020: 0.0335
+
+-------------------------------------------------
+TRAUTGSL has decreases at the following points:
+  Check   from Year 2023: 2.5433 to Year 2024: 2.5251
+
+-------------------------------------------------
+TRTAXGSL has decreases at the following points:
+  Check   from Year 2023: 1.3691 to Year 2024: 1.3594
+
+-------------------------------------------------
+TRTAXLPG has decreases at the following points:
+  Check   from Year 2023: 1.3691 to Year 2024: 1.3594
+
+-------------------------------------------------
+TRMOTGSL has decreases at the following points:
+  Check   from Year 2023: 6.5452 to Year 2024: 6.4985
+
+-------------------------------------------------
+TRSUVDSL has decreases at the following points:
+  Check   from Year 2023: 4.7935 to Year 2024: 4.7592
+
+-------------------------------------------------
+TRSUVGSL has decreases at the following points:
+  Check   from Year 2023: 4.7935 to Year 2024: 4.7592
+
+-------------------------------------------------
+TRBPUDSL has decreases at the following points:
+  Check   from Year 2023: 0.8197 to Year 2024: 0.8139
+
+-------------------------------------------------
+TRBTURGSL has decreases at the following points:
+  Check   from Year 2023: 0.0128 to Year 2024: 0.0127
+
+-------------------------------------------------
+TRMBSDSL has decreases at the following points:
+  Check   from Year 2023: 0.3626 to Year 2024: 0.36
+
+-------------------------------------------------
+TRMBSGSL has decreases at the following points:
+  Check   from Year 2023: 0.3626 to Year 2024: 0.36
+
+-------------------------------------------------
+TRYTKDSL has decreases at the following points:
+  Check   from Year 2023: 0.6734 to Year 2024: 0.6686
+
+-------------------------------------------------
+TRYLFDSL has decreases at the following points:
+  Check   from Year 2023: 0.8702 to Year 2024: 0.8641
+
+-------------------------------------------------
+TRYLFGSL has decreases at the following points:
+  Check   from Year 2023: 0.8702 to Year 2024: 0.8641
+
+-------------------------------------------------
+
+
+
+
+
+
+
+######################################################## TEST 3 ########################################################
+
+Problem if values of TotalTechnologyAnnualActivityLowerLimit are greater than TotalTechnologyAnnualActivityUpperLimit,
+by available technologies.
+
+
+
+
+
+
+
+######################################################## TEST 4 ########################################################
+
+Problem if values of ResidualCapacity are greater than TotalAnnualMaxCapacity,
+by available technologies.
+
+
+
+
+
+
+
+######################################################## TEST 5 ########################################################
+
+Problem if values of SpecifiedAnnualDemand(fuels/grandma) are greater than
+TotalAnnualMaxCapacity(mothers) x OutputActivityRatio(mothers), only for transport sector.
+
+
+
+
+
+
+
+######################################################## TEST 6 ########################################################
+
+Problem if values of SpecifiedAnnualDemand(fuels/grandma) are greater than
+TotalTechnologyAnnualActivityLowerLimit(mothers) x OutputActivityRatio(mothers), only for transport sector.
+ Check   for E6TDFRELIG in year 2018, the condition is NOT satisfied.
+
+
+
+
+
+
+
+######################################################## TEST 7 ########################################################
+
+Problem if values of TotalTechnologyAnnualActivityLowerLimit are less than
+TotalAnnualMaxCapacity x CapacityFactor x 31.356, by available technologies.
+
+
+
+
+
+
+
+######################################################## TEST 8 ########################################################
+
+Problem if values of TotalTechnologyAnnualActivityLowerLimit are less than
+TotalAnnualMaxCapacity x CapacityFactor x AvailabilityFactor x 31.356, by available technologies.
+
+
+
+
+
+
+
+######################################################## TEST 9 ########################################################
+
+Problem if TotalAnnualMaxCapacity is less than TotalTechnologyAnnualActivityLowerLimit, only for transport sector.
+
+
+
+
+
+
+
+######################################################## TEST 10 ########################################################
+
+Problem if sum of TotalAnnualMaxCapacity(daughters) are less than TotalTechnologyAnnualActivityLowerLimit(mother),
+only for transport sector.
