@@ -11,9 +11,8 @@ Un repositorio de GitHub generalmente tiene la siguiente estructura:
 
 - **README.md**: Archivo de bienvenida con una descripción del proyecto.
 - **docs/**: Carpeta con la documentación del proyecto (incluir archivos `.rst`).
-- **AFOLU/**: Código fuente del modelo de `AFOLU`.
-- **Energy/**: Código fuente del modelo de `Energía y Transporte`.
-- **IPPU_Waste/**: Código fuente del modelo de Procesos Industriales y Uso de Productos `IPPU` y del modelo de `Residuos`.
+- **Energy_Transport/**: Código fuente del modelo de `Energía y Transporte`.
+- **LULUCF/**: Código fuente del modelo de `Uso de la Tierra, Cambio de Uso de la Tierra y Silvicultura`.
 - **requirements.txt**: Dependencias del proyecto (para poder ejecutar la simulación, son librerías de Python).
 - **.github/**: Configuraciones para CI/CD, plantillas de issues y PRs (únicamente disponible en la PC cuando se clona el repositorio).
 
@@ -29,5 +28,4 @@ Un repositorio de GitHub generalmente tiene la siguiente estructura:
 
 3. **Descargar el Código**
    - Puedes descargar el repositorio en formato `.zip` presionando clic izquierdo el botón verde ``<> Code`` y después clic izquierdo en la opción ``Download ZIP``.
-   También se puede clonar con el siguiente comando por medio de `Git Bash`:
-   git clone https://github.com/clg-admin/LTS-RD.git
+   - También se puede clonar con el siguiente comando por medio de `Git Bash`: ``git clone https://github.com/clg-admin/ENDRCH-HON.git``

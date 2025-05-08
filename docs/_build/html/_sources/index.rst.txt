@@ -1,28 +1,22 @@
-.. LTS-RD documentation master file, created by
+.. ENDRCH‑HON documentation master file, created by
    sphinx-quickstart on Wed Apr 23 13:20:52 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 ===================================================
-Documentación de LTS-RD
+Documentación de ENDRCH‑HON
 ===================================================
 
-OSeMOSYS-RD es un modelo de planificación de mediano y largo plazo para la cuantificación de emisiones,
-desarrollado para apoyar la construcción de la Estrategia a Largo Plazo (ELP) de República Dominicana
-hacia un desarrollo resiliente y bajo en emisiones al 2050.
+ENDRCH‑HON es un modelo de planificación integrada de mediano y largo plazo para la cuantificación de
+emisiones que respalda la actualización de la Estrategia Nacional de Descarbonización y Resiliencia Climática
+de Honduras (ENDRCH), generando proyecciones sectoriales para el período 2024‑2050 y orientando al país hacia un
+desarrollo resiliente y bajo en emisiones al 2050.
 
 El modelo se basa en OSeMOSYS, un marco de código abierto ampliamente utilizado para evaluar
-políticas de mitigación y estrategias de planificación energética. La construcción de escenarios
-se realizó aplicando la metodología de Toma de Decisión Robusta (RDM), que permite explorar múltiples
-futuros bajo condiciones de incertidumbre profunda.
-
-Este documento cubre la modelización de cinco sectores clave:
-    - Energía
-    - Transporte
-    - Procesos industriales y uso de productos (PIUP)
-    - Residuos
-    - Agricultura, silvicultura y cambio de uso de la tierra (AFOLU)
-
+políticas de mitigación y estrategias de planificación energética. Este documento cubre la modelización de cinco sectores clave:
+    * Energía
+    * Transporte
+    * Uso de la Tierra, Cambio de Uso de la Tierra y Silvicultura (LULUCF)
 
 ==================================
 Estructura de la Documentación
@@ -36,10 +30,9 @@ Estructura de la Documentación
    Introducción <introduction>
    Metodología <methodology>
    Resultados Nacionales <national_results>
-   Energía y Transporte <0_electricity_transport/index>
-   Agricultura, Silvicultura y Cambio de Uso de la Tierra (AFOLU)  <1_afolu/index>
-   Procesos Industriales y Uso de Productos (PIUP)  <2_piup/index>
-   Residuos  <3_waste/index>
+   Energía <0_electricity/index>
+   Transporte <1_transport/index>
+   Uso de la Tierra, Cambio de Uso de la Tierra y Silvicultura (LULUCF)  <2_lulucf/index>
    Uso del Modelo <model_use>
    Navegación en GitHub <github_navigation>
    Licencia <license>

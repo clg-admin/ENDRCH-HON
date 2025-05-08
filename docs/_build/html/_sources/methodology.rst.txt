@@ -2,26 +2,23 @@
 Metodología
 ====================================
 
-A partir de los insumos del Primer Taller Nacional, se desarrollaron modelos sectoriales para analizar
-trayectorias evolutivas en la economía de la República Dominicana. Este estudio evalúa los siguientes sectores principales definidos por IPCC:
+La actualización de la ENDRCH para los sectores de Energía, Transporte y LULUCF se llevó a cabo mediante una metodología
+participativa de co-creación que integró talleres, sesiones bilaterales y procesos de capacitación para recoger el conocimiento
+técnico de personas expertas sectoriales. A través de la aplicación de la matriz DAMI (Desempeño, Acciones, Modelos y datos, Incertidumbres),
+se recabaron insumos esenciales que permitieron construir y alimentar modelos sectoriales y escenarios de emisiones. Posteriormente,
+se socializaron y validaron los resultados preliminares de los escenarios tendencial y de descarbonización, se revisaron supuestos técnicos,
+condiciones habilitantes y se discutieron acciones sectoriales y temas transversales relevantes. 
 
-- Energía  
-- Procesos industriales y uso de productos (IPPU, por sus siglas en inglés)  
-- Agricultura, silvicultura y otros usos de la tierra (AFOLU, por sus siglas en inglés)  
-- Residuos
-
-
-Además, se consideran temas transversales como turismo, infraestructura y zonas costero-marinas,
-con el fin de explorar sinergias entre mitigación y resiliencia climática. Los modelos están construidos con la herramienta OSeMOSYS (Open Source Energy Modelling System),
-adaptada como OSeMOSYS-RD para la República Dominicana. Esta plataforma permite modelar cadenas de valor energéticas
-y no energéticas, y generar escenarios que responden a preguntas del tipo “¿qué pasa si…?”. La **Figura 1** muestra la estructura del modelo.
+Este proceso permitió ajustar los modelos,
+priorizar información clave, proponer nuevas acciones y redefinir los ejes estratégicos de la ENDRCH, garantizando una estrategia robusta,
+realista y adaptada a las condiciones del país. La **Figura 1** la metodología para la creación del modelo.
 
 .. figure:: _static/_images/1_metodologia.png
    :alt: Models used on the cost and benefits analysis
    :width: 100%
    :align: center
 
-   **Figura 1:** Estructura del modelo OSeMOSYS-RD
+   **Figura 1:** Metodología para el desarrollo del modelo ENDRCH-HON
 
 
 

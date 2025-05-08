@@ -1,13 +1,22 @@
 ---------------------
-Results
+Resultados
 ---------------------
 
-**Figure 5** shows that the implementation of mitigation actions in the transport sector yields a net benefit of $8.3 billion compared to the BAU scenario.
+La **Figura 5** muestra una disminución notable de las emisiones entre escenarios, producto de las medidas de mitigación establecidas. Esta disminución representa una reducción absoluta de 4,102 Gg CO₂,
+equivalente a un 62 % menos. En términos económicos, la **Figura 6** muestra que aunque el ENDRCH implica mayores inversiones (CAPEX), los costos operativos (OPEX) y las
+externalidades son significativamente menores, lo que se traduce en un ahorro total de 18.27 mil millones de USD respecto al escenario Tendencial.
 
-.. figure:: ../_static/_images/5_transporte.png
+
+.. figure:: ../_static/_images/5_transresuls.png
    :alt: Models used on the cost and benefits analysis
    :width: 100%
    :align: center
 
-   **Figure 5:** : Preliminary results for the Transport sector: (a) costs of the BAU and LTS scenarios, and (b) benefits of implementing
-   the LTS -cost difference between the BAU and LTS scenarios-.
+   **Figura 5:** Emisiones del sector transporte en los escenarios Tendencial y ENDRCH.
+
+.. figure:: ../_static/_images/5_transcostos.png
+   :alt: Models used on the cost and benefits analysis
+   :width: 100%
+   :align: center
+
+   **Figura 6:** Costos acumulados al 2050 del sector transporte y beneficios de los escenarios Tendencial y ENDRCH

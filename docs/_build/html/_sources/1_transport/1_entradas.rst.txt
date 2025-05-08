@@ -1,28 +1,34 @@
 ===================================
-Input Data
+Datos de entrada del modelo
 ===================================
 
-**Table 4**  presents the information sources used to provide data for the parameters of the Industry sector model.
+En la **Tabla 4**  se presentan los datos de entrada para el modelo del sector Transporte.
 
-.. list-table:: **Table 4.** Transport Sector Data Sources
-   :widths: 30 70
+.. list-table:: **Tabla 4.** Datos de entrada del modelo del sector transporte
+   :widths: 25 55 20
    :header-rows: 1
 
-   * - **Data**
-     - **Source**
-   * - Fleet composition in the reference year (2017) and importation data to estimate the fleet composition in the calibration year (2021).
-     - Strategic Framework for Electric Mobility (Inter American Development Bank, 2022). Importation data from IRF World Road Statistics Datawarehouse (International Road Federation, 2024).
-   * - Transport technologies efficiency.
-     - Strategic Framework for Electric Mobility (Inter American Development Bank, 2022).
-   * - Travelled distance per technology.
-     - Adapted from the “Plan Estratégico Nacional de Movilidad Eléctrica de República Dominicana” (INTRANT, 2020).
-   * - Percentage of fuel consumption per technology.
-     - Developing Jamaica’s long-term strategy for low emission and climate resilient development (Vivid Economics and the World Bank, 2021); Jamaica’s long-term climate change strategy recommendations (Vivid Economics and the World Bank, 2021).
-   * - Relation between the number of public charging stations and electric vehicles.
-     - Emerging best practices for electric vehicle charging infrastructure (Hall, D & Lutsey, N, 2017).
-   * - Costs.
-     - Strategic Framework for Electric Mobility (Inter American Development Bank, 2022).
-   * - Local health externalities.
-     - Global Fossil Fuel Subsidies Remain Large: An Update Based on Country Level Estimate (International Monetary Fund - IMF, Coady et al., 2019).
-   * - Transport emission factors.
-     - Default values reported in the IPCC Guidelines, volume 2, chapter 2 Stationary Combustion (Intergovernmental Panel on Climate Change, 2006, p. 2).
+   * - Dato/Supuesto
+     - Detalle
+     - Fuente
+   * - Cantidad de vehículos por tipo de combustible
+     - Estimada con base en registros del parque vehicular y consumo energético; considera diesel, gasolina y GLP. Se proyecta su disminución hasta 2050.
+     - INE (2023), SEN (2022), Secretaría de Energía (2024), SEPSE (2021), OSeMOSYS-CR
+   * - Rendimiento energético [MJ/km]
+     - Derivado de balances energéticos y kilometraje en Costa Rica; complementado con OSeMOSYS-CR para datos faltantes.
+     - SEPSE (2021), Secretaría de Energía (2024), OSeMOSYS-CR
+   * - Infraestructura de carga
+     - Se propone una estación de carga pública por cada 7 vehículos eléctricos, basada en experiencias internacionales.
+     - Hall & Lutsey (2017, 2020)
+   * - Crecimiento de la demanda
+     - Se aproxima con base en las proyecciones del PIB per cápita y crecimiento poblacional hasta 2050.
+     - Banco Central de Honduras (2023), Naciones Unidas (2022)
+   * - Costos del sector transporte
+     - Considera costos de capital y operación, con menores costos de mantenimiento en tecnologías de cero emisiones.
+     - Godínez-Zamora et al. (2020)
+   * - Emisiones
+     - Calculadas como consumo proyectado por factor de emisión de la IPCC para combustión móvil.
+     - IPCC (2006), Vol. 2, Cap. 3
+   * - Externalidades
+     - Incluyen impactos en salud pública por consumo de diésel, gasolina y GLP.
+     - IMF (Coady et al., 2019)

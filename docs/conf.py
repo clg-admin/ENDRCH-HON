@@ -11,7 +11,7 @@ import sys
 sys.path.insert(0, os.path.abspath('../..'))
 
 # -- Project information -----------------------------------------------------
-project = 'RD-LTS'
+project = 'ENDRCH-HON'
 copyright = '2025, CLG'
 author = 'CLG'
 release = '2025'
