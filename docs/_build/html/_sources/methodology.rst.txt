@@ -2,16 +2,16 @@
 Metodología
 ====================================
 
-La actualización de la ENDRCH para los sectores de Energía, Transporte y LULUCF se llevó a cabo mediante una metodología
-participativa de co-creación que integró talleres, sesiones bilaterales y procesos de capacitación para recoger el conocimiento
-técnico de personas expertas sectoriales. A través de la aplicación de la matriz DAMI (Desempeño, Acciones, Modelos y datos, Incertidumbres),
-se recabaron insumos esenciales que permitieron construir y alimentar modelos sectoriales y escenarios de emisiones. Posteriormente,
-se socializaron y validaron los resultados preliminares de los escenarios tendencial y de descarbonización, se revisaron supuestos técnicos,
-condiciones habilitantes y se discutieron acciones sectoriales y temas transversales relevantes. 
+La actualización de la ENDRCH para los sectores de Energía, Transporte y LULUCF se realizó mediante un proceso participativo de co-creación
+que combinó talleres, reuniones bilaterales y sesiones de capacitación con especialistas sectoriales. Para sistematizar la información se empleó
+la matriz *DAMI:Desempeño, Acciones, Modelos y datos, Incertidumbres*, un esquema de cuatro cuadrantes que primero captura la situación de referencia
+y sus brechas (Desempeño), luego registra las medidas y políticas posibles (Acciones), detalla los insumos numéricos y herramientas que alimentan los
+modelos sectoriales (Modelos y datos) y, por último, identifica los factores que pueden alterar los resultados (Incertidumbres). Esta matriz suministró
+los parámetros necesarios para construir los modelos y elaborar los escenarios tendencial y de descarbonización, los cuales fueron posteriormente socializados
+y validados con los actores clave, afinando supuestos técnicos, condiciones habilitantes y acciones sectoriales y transversales para la versión final de la ENDRCH. 
 
-Este proceso permitió ajustar los modelos,
-priorizar información clave, proponer nuevas acciones y redefinir los ejes estratégicos de la ENDRCH, garantizando una estrategia robusta,
-realista y adaptada a las condiciones del país. La **Figura 1** la metodología para la creación del modelo.
+Este proceso permitió ajustar los modelos, priorizar información clave, proponer nuevas acciones y redefinir los ejes estratégicos de la ENDRCH, garantizando una
+estrategia robusta, realista y adaptada a las condiciones del país. La **Figura 1** la metodología para la creación del modelo.
 
 .. figure:: _static/_images/1_metodologia.png
    :alt: Models used on the cost and benefits analysis

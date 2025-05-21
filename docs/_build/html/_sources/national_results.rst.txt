@@ -8,7 +8,7 @@ tendencial, como se ilustra en la **Figura 2**, reflejando el impacto de medidas
 
 .. figure:: _static/_images/2_nacionales.png
    :alt: Models used on the cost and benefits analysis
-   :width: 100%
+   :width: 80%
    :align: center
 
    **Figura 2:** Estimaciones de emisiones de GEI 2018-2050
